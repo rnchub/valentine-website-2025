@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dwsfc0asz/video/upload/v1770201083/Cup_of_Joe_Janine_Te%C3%B1oso_-_Tingin_Official_Lyric_Video_fwy4nr.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dwsfc0asz/video/upload/v1770201502/Aphrodite_-_The_Ridleys_Lyrics_vbjlf0.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
